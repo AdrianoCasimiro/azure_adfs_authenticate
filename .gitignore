@@ -1,0 +1,5 @@
+.python-version
+.venv
+.env
+db*
+__pycache__/
